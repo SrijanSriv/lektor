@@ -14,6 +14,8 @@ admin UI and minimal desktop app.
 
 ## This Repository was made for personal use of lektor over different devices until they actually merge [this](https://github.com/lektor/lektor/pull/911) PR.
 
+## As of 2nd August 2021, they fixed the issue!
+
 <img src="https://raw.githubusercontent.com/lektor/lektor-assets/master/screenshots/admin.png" width="100%">
 
 To see how it works look at the top-level `example/` folder, which contains
